@@ -1,4 +1,4 @@
-LINK DEPLOY CV: 
-    https://cv-intern-react-nguyenthichung.vercel.app/
+LINK DEPLOY CV:
+https://cv-intern-react-nguyenthichung.vercel.app/
 
-[cv-intern-react](https://cv-intern-react-nguyenthichung.vercel.app/)
+<img src="https://cv-intern-react-nguyenthichung.vercel.app/" alt="cv-intern-react">
