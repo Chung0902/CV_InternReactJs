@@ -18,7 +18,7 @@ const PersonalDetails = () => {
         >
           Nguyễn Thị Chung
         </h2>
-        <h5 style={{ color: "white", marginTop: "-10px", marginLeft: "90px" }}>
+        <h5 style={{ color: "white", marginTop: "-10px", marginLeft: "120px" }}>
           Intern ReactJS
         </h5>
       </div>
