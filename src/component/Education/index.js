@@ -4,13 +4,15 @@ const Education = () => {
   return (
     <div className="partRight">
       <div className="com">
-        <h2 className="icon" style={{color:  "rgb(1, 97, 142)"}}>
-          <i className="fa"></i>Học vấn
+        <h2 className="icon" style={{ color: "rgb(1, 97, 142)" }}>
+          <i class="fa-solid fa-pen-nib"></i>Học vấn
         </h2>
       </div>
       <br />
       <div className="com">
-        <h5 style={{color:  "rgb(1, 97, 142)"}}>TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT - ĐẠI HỌC ĐÀ NẴNG</h5>
+        <h5 style={{ color: "rgb(1, 97, 142)" }}>
+          TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT - ĐẠI HỌC ĐÀ NẴNG
+        </h5>
         <h6>
           <i className="fa"></i>2020 - Hiện nay
         </h6>
@@ -19,9 +21,7 @@ const Education = () => {
       </div>
       <hr />
       <div className="com">
-        <h5 style={{color:  "rgb(1, 97, 142)"}}>
-          APTECH ĐÀ NẴNG
-        </h5>
+        <h5 style={{ color: "rgb(1, 97, 142)" }}>APTECH ĐÀ NẴNG</h5>
         <h6>
           <i className="fa"></i>2/2023 - 8/2023
         </h6>

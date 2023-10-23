@@ -6,7 +6,7 @@ const Activities = () => {
       {/*write experience*/}
       <div className="com">
         <h2 className="icon" style={{color:  "rgb(1, 97, 142)"}}>
-          <i className="fa"></i>Hoạt động xã hội
+        <i class="fa-solid fa-users"></i>Hoạt động xã hội
         </h2>
       </div>
       <br />
