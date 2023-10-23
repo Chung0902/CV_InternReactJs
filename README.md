@@ -1,4 +1,4 @@
 LINK DEPLOY CV:
 https://cv-intern-react-nguyenthichung.vercel.app/
 
-<img src="https://cv-intern-react-nguyenthichung.vercel.app/" alt="cv-intern-react">
+[![cv-NguyenThiChung](https://example.com/your_image.jpg)](https://cv-intern-react-nguyenthichung.vercel.app/)
