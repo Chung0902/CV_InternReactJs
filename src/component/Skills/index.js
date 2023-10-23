@@ -14,6 +14,9 @@ const Skills = () => {
         <li>TypeScrip</li>
         <li>NextJS</li>
         <li>NodeJs</li>
+        <li>SQL Sever, MySQL, MongoDB</li>
+        <li>Figma</li>
+        <li>GitHub</li>
       </ul>
       <p style={{marginBottom : "-20px", color:  "rgb(1, 97, 142)"}}>English Basic</p>
     </div>
