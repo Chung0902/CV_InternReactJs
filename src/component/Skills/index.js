@@ -15,6 +15,8 @@ const Skills = () => {
         <li>NextJS</li>
         <li>NodeJs</li>
         <li>SQL Sever, MySQL, MongoDB</li>
+        <li>Bootstrap</li>
+        <li>AntDesign</li>
         <li>Figma</li>
         <li>GitHub</li>
       </ul>

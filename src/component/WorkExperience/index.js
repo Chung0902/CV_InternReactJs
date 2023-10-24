@@ -18,7 +18,7 @@ const WorkExperience = () => {
         <p>
           - Sử dụng ngôn ngữ : ReacJS, NodeJS, MySQL <br />
           - Vai trò : Thiết kế giao <br />
-          diện của website, đảm nhiệm một vài chức năng trong dự án và thiết kế
+          diện của website, đảm nhiệm chức năng đăng ký, đăng nhập, duyệt, đặt sân trong dự án và thiết kế
           cơ sở dữ liệu. <br />- Kết quả: Đã hoàn thành một website thương mại
           điện tử với đầy đủ chức năng cơ bản của một trang web với đề tài Quản
           lý đặt sân bóng tại quận Hải Châu.
