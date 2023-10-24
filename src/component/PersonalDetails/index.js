@@ -19,7 +19,7 @@ const PersonalDetails = () => {
           Nguyễn Thị Chung
         </h2>
         <h5 style={{ color: "white", marginTop: "-10px", marginLeft: "120px" }}>
-          Intern ReactJS
+          Fresher Front-End
         </h5>
       </div>
       {/*Enter data*/}
