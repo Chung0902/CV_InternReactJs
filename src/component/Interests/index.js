@@ -5,12 +5,12 @@ const Interests = () => {
     <div>
       <p className="star">
         <i className="fa"> </i>
-        <b>Sở thích</b>
+        <b>Interest</b>
       </p>
       <ul>
-        <li>Đọc sách, nghe nhạc</li>
-        <li>Tìm hiểu các công nghệ mới</li>
-        <li>Học hỏi thêm nhiều kinh nghiệm về lập trình</li>
+        <li>Reading books, listening to music</li>
+        <li>Learn new technologies</li>
+        <li>Learn more programming experience</li>
       </ul>
     </div>
   );

@@ -25,7 +25,7 @@ const PersonalDetails = () => {
       {/*Enter data*/}
       <div className="partTwo">
         <p>
-          <i class="fa fa-female"></i> Nữ
+          <i class="fa fa-female"></i> Female
         </p>
         <p>
           <i className="fa fa-birthday-cake"></i>13/09/2002

@@ -5,29 +5,29 @@ const Education = () => {
     <div className="partRight">
       <div className="com">
         <h2 className="icon" style={{ color: "rgb(1, 97, 142)" }}>
-          <i class="fa-solid fa-pen-nib"></i>Học vấn
+          <i class="fa-solid fa-pen-nib"></i>Education
         </h2>
       </div>
       <br />
       <div className="com">
         <h5 style={{ color: "rgb(1, 97, 142)" }}>
-          TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT - ĐẠI HỌC ĐÀ NẴNG
+        UNIVERSITY OF TECHNICAL PEDAGOGY - UNIVERSITY OF DA NANG
         </h5>
         <h6>
-          <i className="fa"></i>2020 - Hiện nay
+          <i className="fa"></i>2020 - Currently
         </h6>
-        <p>Ngành học: Công nghệ thông tin</p>
-        <p>Chuyên ngành: Kỹ thuật phần mềm</p>
+        <p>Field of study: Information technology</p>
+        <p>Major: Software Engineering</p>
       </div>
       <hr />
       <div className="com">
-        <h5 style={{ color: "rgb(1, 97, 142)" }}>APTECH ĐÀ NẴNG</h5>
+        <h5 style={{ color: "rgb(1, 97, 142)" }}>APTECH DA NANG</h5>
         <h6>
           <i className="fa"></i>2/2023 - 8/2023
         </h6>
         <p>
-          Khóa lập trình web fullstack (Frontend + Backend) với REACTJS +
-          NEXTJS, NODEJS, EXPRESSJS VÀ MONGODB)
+          Fullstack web programming course (Frontend + Backend) with REACTJS +
+          NEXTJS, NODEJS, EXPRESSJS AND MONGODB
         </p>
       </div>
       <hr />

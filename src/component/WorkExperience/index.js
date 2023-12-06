@@ -6,37 +6,39 @@ const WorkExperience = () => {
       {/*write experience*/}
       <div className="com">
         <h2 className="icon" style={{ color: "rgb(1, 97, 142)" }}>
-          <i class="fa-solid fa-folder-open"></i>Dự án tham gia
+          <i class="fa-solid fa-folder-open"></i>Project participation
         </h2>
       </div>
       <br />
       <div className="com">
         <h5 style={{ color: "rgb(1, 97, 142)" }}>
-          Trường đại học Sư phạm Kỹ thuật
+          University of Technical Education
         </h5>
-        <p>Đây là đồ án phần mềm tại trường : </p>
+        <p>This is the software project at school:</p>
         <p>
-          - Sử dụng ngôn ngữ : ReacJS, NodeJS, MySQL <br />
-          - Vai trò : Thiết kế giao <br />
-          diện của website, đảm nhiệm chức năng đăng ký, đăng nhập, duyệt, đặt sân trong dự án và thiết kế
-          cơ sở dữ liệu. <br />- Kết quả: Đã hoàn thành một website thương mại
-          điện tử với đầy đủ chức năng cơ bản của một trang web với đề tài Quản
-          lý đặt sân bóng tại quận Hải Châu.
+          - Using languages: ReactJS, NodeJS, MySQL
+          <br />
+          - Role: Interface design <br />
+          website interface, responsible for registration, login, approval,
+          project placement and design functions database.
+          <br />- Result: Completed a commercial website electronic with full
+          basic functions of a website with Admin theme located the soccer field
+          in Hai Chau district.
         </p>
       </div>
       <hr />
       <div className="com">
-        <h5 style={{ color: "rgb(1, 97, 142)" }}>Aptech Đà Nẵng</h5>
+        <h5 style={{ color: "rgb(1, 97, 142)" }}>Aptech Da Nang</h5>
         <p>
-          Đây là dự án xây dựng website thương mại điện tử kết thúc khóa học tại
-          trung tâm
+          This is the project to build an e-commerce website at the end of the
+          course center
         </p>
         <p>
-          - Sử dụng ngôn ngữ: ReacJS, NextJS, NodeJS, MongoDB <br />
-          - Vai trò: Thiết kế cơ sở dữ liệu, thiết kế giao diện của website, đảm
-          nhiệm các chức năng trong trang web như thêm, sửa, xóa, thống kê, tìm
-          kiếm, lọc, ... <br />- Kết quả: Hoàn thành một trang web thương mại
-          điện tử hoàn chỉnh với đầy đủ các chức năng.
+          - Using languages: ReactJS, NextJS, NodeJS, MongoDB <br />
+          - Role: Database design, website interface design, assurance
+          Responsible for website functions such as adding, editing, deleting,
+          statistics, and searching search, filter, ... <br />- Result: Complete
+          a commercial website Complete electronics with full functionality.
         </p>
       </div>
       <hr />

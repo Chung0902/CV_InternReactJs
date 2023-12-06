@@ -5,9 +5,9 @@ const Skills = () => {
     <div>
       <p className="star">
         <i className="fa"></i>
-        <b>Kỹ năng</b>
+        <b>Skill</b>
       </p>
-      <p style={{color:  "rgb(1, 97, 142)"}}>Có kiến thức cơ bản về :</p>
+      <p style={{color:  "rgb(1, 97, 142)"}}>Have basic knowledge about:</p>
       <ul>
         <li>Html, Css, JavaScrip</li>
         <li>ReactJS</li>

@@ -6,34 +6,33 @@ const Activities = () => {
       {/*write experience*/}
       <div className="com">
         <h2 className="icon" style={{color:  "rgb(1, 97, 142)"}}>
-        <i class="fa-solid fa-users"></i>Hoạt động xã hội
+        <i class="fa-solid fa-users"></i>Social activities
         </h2>
       </div>
       <br />
       <div className="com">
-        <h5 style={{color:  "rgb(1, 97, 142)"}}>Tham gia các hoạt động của trường</h5>
+        <h5 style={{color:  "rgb(1, 97, 142)"}}>Participate in school activities</h5>
         <h6>
-          <i className="fa"></i>2020 - Hiện nay
+          <i className="fa"></i>2020 - Currently
         </h6>
         <ul>
-          <li>Tình nguyện viên</li>
-          <li>Tham gia hoạt động hiến máu nhân đạo.</li>
-          <li>Tham gia ngày hội sinh viên.</li>
-          <li>Tham gia các nhóm hoạt động tại trường. </li>
+          <li>Volunteers</li>
+          <li>Participate in humanitarian blood donation activities.</li>
+          <li>Participate in student fairs.</li>
+          <li>Join activity groups at school.</li>
         </ul>
       </div>
       <hr />
       <div className="com">
         <h5 style={{color:  "rgb(1, 97, 142)"}}>
-          Tham gia hoạt động mùa hè xanh tại Duy Phước, huyện Duy Xuyên, tỉnh
-          Quảng Nam
+        Participate in green summer activities at Duy Phuoc, Duy Xuyen district, Quang Nam province
         </h5>
         <h6>
-          <i className="fa"></i>Hiện nay
+          <i className="fa"></i>Currently
         </h6>
         <ul>
-          <li>Tham gia các hoạt động tình nguyện mùa hè xanh.</li>
-          <li>Tham gia hoạt động trại thanh niên tại xã Duy Phước.</li>
+          <li>Participate in green summer volunteer activities.</li>
+          <li>Participate in youth camp activities in Duy Phuoc commune.</li>
         </ul>
       </div>
       <hr />
